@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Leapdragon 2016]]></title>
         <description><![CDATA[Leapdragon 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leapdragon-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 20:01:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 20:47:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leapdragon-2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a test.</p>]]></description>
+            <link>https://thegrid.ai/leapdragon-2016/99c5ff53-4b06-4e0c-ac71-04b346123a69/index.html</link>
+            <guid isPermaLink="false">99c5ff53-4b06-4e0c-ac71-04b346123a69</guid>
+            <pubDate>Sat, 02 Jan 2016 20:47:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Begin Off Center.]]></title>
-            <description><![CDATA[<article><h1>Begin Off Center.</h1><p>Begin off center.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51795fea-97f8-48ee-a1cb-9c8cb6320e26.jpg"></article>]]></description>
-            <link>undefinedbegin-off-center/index.html</link>
+            <description><![CDATA[<article><h1>Begin Off Center.</h1><p>Begin off center.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d904cc438c6cd2b19c7d8f7eec57c5094d2e1b5e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/leapdragon-2016/begin-off-center/index.html</link>
             <guid isPermaLink="false">6d7b3caa-cbc0-4482-9dd8-a62c1325a816</guid>
             <pubDate>Sat, 02 Jan 2016 20:01:36 GMT</pubDate>
         </item>
