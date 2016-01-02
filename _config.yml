@@ -1,0 +1,28 @@
+name: Leapdragon 2016
+favicon: null
+layout_spectrum: 0.8132259354460984
+typography_spectrum: 0.9442707758862525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6832083356566727
+  lightness: 0.322454720037058
+  saturation: 0.29615702317096293
+  rhythmicContrast: 0.5032453052699566
+purpose: []
